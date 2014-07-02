@@ -44,8 +44,8 @@
 							"A phone message, distorted accidentally, scares a woman who can't decipher it"
 						];
 
-	console.log(tigerMountain.sort(function(a, b){
-  							return a.length - b.length; 
-						}));
+	// console.log(tigerMountain.sort(function(a, b){
+ 	//  								return a.length - b.length; 
+	// 									}));
 
 })();
