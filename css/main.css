@@ -2,7 +2,8 @@
 
 .button:hover {
 	cursor: pointer;
-	color: #7f8c8d;
+	color: black;
+	background-color: #ecf0f1;
 
 }
 
@@ -17,7 +18,7 @@
     color: black;
 }
 #strategy {
-	height: 250px;
+	height: 200px;
 	margin-bottom: 30px;
 	font-size: 3.2em;
 }
@@ -30,11 +31,9 @@
 	background-color: #ecf0f1;
 	border-radius: 5px;
 	line-height: 0px;
-	font-family: 'Lato';
-	font-size: 1.5em;
+	font-family: 'Helvetica', 'Arial';
+	font-size: 1em;
 	font-weight: 100;
-	color: black;
-	-webkit-box-shadow: 0px 1px 5px 0px rgba(20, 20, 20, 0.75);
-	-moz-box-shadow:    0px 1px 5px 0px rgba(20, 20, 20, 0.75);
-	box-shadow:         0px 1px 5px 0px rgba(20, 20, 20, 0.75);
+	color: #7f8c8d;
+	text-transform: uppercase;
 }

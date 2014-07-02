@@ -21,7 +21,7 @@
 							"The dot over a lowercase 'i' is called a tittle",
 							"Someone you don't know has a familiar face",
 							"A generally hairy man who only drinks fizzy water - His worry and relief",
-							"An potent Oracle who lives in a shed behind a Krispy Kreme",
+							"A potent Oracle who lives in a shed behind a Krispy Kreme",
 							"Ethics and aesthetics are one - Make it unethical",
 							"Give it room to breathe, then take it away",
 							"A phone message, distorted accidentally, scares a woman who can't decipher it",
@@ -33,6 +33,7 @@
 							"Loud trains on a screen in the far corner",
 							"Guitar strap or laptop bag?",
 							"Make an ocarina out of a wide carrot",
-							"a dog, turned into a rock for 40 years, remembering" 
+							"A dog, turned into a rock for 40 years, remembering a bird",
+							"Your face is made of emeralds for an hour every day" 
 						];
 })();
