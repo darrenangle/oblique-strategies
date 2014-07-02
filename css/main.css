@@ -1,31 +1,40 @@
-@import url(http://fonts.googleapis.com/css?family=Gudea:400,700,400italic|Lato:100);
+@import url(http://fonts.googleapis.com/css?family=Gudea:100,400|Lato:100);
 
 .button:hover {
 	cursor: pointer;
+	color: #7f8c8d;
+
 }
 
 .wrapper{
-    width:400px;
+    width:650px;
     height:200px;
     position:absolute;
     left:50%;
     top:50%;
-    margin:-100px 0 0 -200px;
+    margin:-100px 0 0 -325px;
     font-family: 'Lato';
     color: black;
 }
 #strategy {
-	height: 100px;
+	height: 250px;
 	margin-bottom: 30px;
-	font-size: 2em;
+	font-size: 3.2em;
 }
 
 .button {
-	/*width: 50%;*/
-	height: 30px;
+	width: 30%;
+	padding: 30px;
 	margin: 0 auto;
 	text-align: center;
-	background-color: green;
+	background-color: #ecf0f1;
 	border-radius: 5px;
-	line-height: 30px;
+	line-height: 0px;
+	font-family: 'Lato';
+	font-size: 1.5em;
+	font-weight: 100;
+	color: black;
+	-webkit-box-shadow: 0px 1px 5px 0px rgba(20, 20, 20, 0.75);
+	-moz-box-shadow:    0px 1px 5px 0px rgba(20, 20, 20, 0.75);
+	box-shadow:         0px 1px 5px 0px rgba(20, 20, 20, 0.75);
 }

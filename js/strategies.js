@@ -6,8 +6,18 @@
 	} 
 
 	$('#take').click(function(){
-		$('#strategy').html(strategize());
+		$('.fader').hide();
+		var strat = strategize();
+		$("<div class='fader'></div>").appendTo("#strategy").hide().append(strat).fadeIn('slow');
+
+
+		// $('#strategy').fadeOut();
+		// var html = strategize();
+		// $('#strategy').html(strategize()).fadeIn(slow);
+		// $('#strategy').fadeIn();
 	});
+
+	$('.button').hide().fadeIn(1000);
 
 	var tigerMountain = [
 							"Silly anxiety tapered over time and a city walk.",
