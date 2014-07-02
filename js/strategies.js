@@ -18,13 +18,15 @@
 
 
 	var tigerMountain = [
-							"Swing and miss", 
+							"Swing and miss",
+							"Be more lonely after dark", 
 							"Guitar strap or laptop bag?", 
 							"Dirty bare foot cleaned by snow", 
 							"Take Tiger Mountain by strategy", 
-							"Its leaking and you're OK with that", 
+							"It's leaking and you're OK with that", 
 							"Make an ocarina out of a wide carrot", 
-							"A paper boat pushed into a lake nearby", 
+							"A paper boat pushed into a lake nearby",
+							"It's leaking and you're not OK with that", 
 							"Loud trains on a screen in the far corner", 
 							"Someone you don't know has a familiar face", 
 							"Give it room to breathe, then take it away", 
@@ -34,7 +36,7 @@
 							"Ethics and aesthetics are one - Make it unethical", 
 							"Hypochondriacs meeting by a rain barrel on campus", 
 							"Your face is made of emeralds for an hour every day", 
-							"AI with hard-coded mood swings pining for a lost bell", 
+							"Robot with hard-coded mood swings pining for a lost bell", 
 							"A potent Oracle who lives in a shed behind a Krispy Kreme", 
 							"out of the ground into the sky out of the sky into the dirt", 
 							"An android widens its stance and says, 'this is the big dream'", 
@@ -42,6 +44,8 @@
 							"Several layers of fat and marbles, never mixing, hundreds of feet high", 
 							"A generally hairy man who only drinks fizzy water - His worry and relief", 
 							"A phone message, distorted accidentally, scares a woman who can't decipher it"
+							
+
 						];
 
 	// console.log(tigerMountain.sort(function(a, b){
