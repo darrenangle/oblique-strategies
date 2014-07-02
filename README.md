@@ -1,6 +1,8 @@
 oblique-strategies
 ==================
 
+http://darrenangle.com/oblique-strategies
+
 Oblique Strategies is a simple creative tool inspired by Brian Eno and Peter Schmidt's cards of the same name.
 
 The Eno and Schmidt deck was used to remove creative blocks while making art or music. Artists  would select a card at random and reveal a cryptic directive like "Try faking it!" or "Ask your body". These directives could take work in a different direction, or free up a blocked effort.
