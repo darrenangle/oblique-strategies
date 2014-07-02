@@ -42,9 +42,8 @@
 							"Several layers of fat and marbles, never mixing, hundreds of feet high", 
 							"A generally hairy man who only drinks fizzy water - His worry and relief", 
 							"A phone message, distorted accidentally, scares a woman who can't decipher it"
-
 						];
-						
+
 	console.log(tigerMountain.sort(function(a, b){
   							return a.length - b.length; 
 						}));
