@@ -34,6 +34,7 @@
 							"Guitar strap or laptop bag?",
 							"Make an ocarina out of a wide carrot",
 							"A dog, turned into a rock for 40 years, remembering a bird at year 38",
-							"Your face is made of emeralds for an hour every day" 
+							"Your face is made of emeralds for an hour every day",
+							"Dirty bare foot cleaned in new snow" 
 						];
 })();
