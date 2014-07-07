@@ -89,7 +89,7 @@
 						];
 
 	// console.log(tigerMountain.sort(function(a, b){
- 	//  								return a.length - b.length; 
-	// 									}));
+ 	// return a.length - b.length; 
+	// }));
 
 })();
